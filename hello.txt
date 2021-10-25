@@ -1,1 +1,2 @@
-hello from git
+hello git
+hello there
