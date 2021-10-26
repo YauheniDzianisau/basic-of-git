@@ -1,3 +1,7 @@
 hello git
 hello there
+<<<<<<< HEAD
 try to make pr
+=======
+final result
+after pull
