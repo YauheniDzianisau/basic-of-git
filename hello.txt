@@ -1,3 +1,11 @@
 hello git
 hello there
+<<<<<<< HEAD
 conflicts resloved
+=======
+<<<<<<< HEAD
+try to make pr
+=======
+final result
+after pull
+>>>>>>> parent of 065e819 (edit hello v2)
